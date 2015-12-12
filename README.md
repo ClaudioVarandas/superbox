@@ -1,2 +1,4 @@
 # superbox
-Vagrant box for php and js development
+A basic vagrant provision scripts based on the great Vaprobash.
+
+https://github.com/fideloper/Vaprobash
